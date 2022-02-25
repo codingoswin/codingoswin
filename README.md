@@ -9,7 +9,7 @@
 - Avidly enjoy spending time solving coding problems on codewars
 - constantly reading books to expand my knowledge
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingoswin&theme=dracula&hide_border=True)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingoswin&theme=onedark&hide_border=True)
 
 
 ## ➡ languages/tools worked with
