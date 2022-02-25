@@ -1,8 +1,4 @@
-<h1 align="center"> 🐍 Hello! I'm Oswin 💻 </h1>
-<h3 align="center"> Aspiring full stack software engineer from the UK </h3>
-
 <img src="https://share.creavite.co/oVA7K7G64z6M72UV.gif" width = "1000" height = "150" align="center">
-
 ## ➡ about me
 
 - 20 years old he/him
