@@ -26,17 +26,13 @@
 <a href="https://www.linkedin.com/in/oswin-pinto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coding-oswin" height="30" width="40" /></a>
 <a href="https://leetcode.com/Oswin147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coding-oswin" height="30" width="40" /></a>
 </p>
-<br>
 
 ## ➡ Donate/support in crypto
 
 <h3> <img src ="https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png" width = 27 height = 22 > BTC: bc1q5hhgzqphr3laqxf6wtgu3tu4kxudmaknx8ep2l
 
-<br>
-
 <h3> <img src = "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png" width = 27 height = 22> ETH: 0xeEd5F4de811db85C2d4e0Bc5285D0aE5b5581423 </h3>
 
-  
 <h3> <img src = "https://dynamic-assets.coinbase.com/e81509d2307f706f3a6f8999968874b50b628634abf5154fc91a7e5f7685d496a33acb4cde02265ed6f54b0a08fa54912208516e956bc5f0ffd1c9c2634099ae/asset_icons/3af4b33bde3012fd29dd1366b0ad737660f24acc91750ee30a034a0679256d0b.png" width = 27 height = 22>  XRP: r9XCNbBHoAdL1qqhoLAK973Mbx4h1t5LzK </h3>
 
 
