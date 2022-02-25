@@ -1,4 +1,4 @@
-<img src="https://share.creavite.co/oVA7K7G64z6M72UV.gif" width = "1000" height = "150" align="center">
+<img src="https://share.creavite.co/oVA7K7G64z6M72UV.gif" width = "1000" height = "130" align="center">
 
 ## ➡ about me
 
