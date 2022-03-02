@@ -7,7 +7,7 @@
 - Looking to connect and network with as many people with similar hobbies and passions!
 - Intrested in learning from and contributing to open source aswell as eager to build new projects
 - Avidly enjoy spending time solving coding problems on codewars
-- constantly reading books to expand my knowledge
+- Constantly expanding my knowledge & always open to opportunities
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingoswin&theme=cobalt&hide_border=True)
 
