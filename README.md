@@ -3,7 +3,7 @@
 ## ➡ about me
 
 - 20 years old he/him
-- Currently learning Python and back-end technnologies
+- Currently learning Ruby and back-end technnologies
 - Looking to connect and network with as many people with similar hobbies and passions!
 - Intrested in learning from and contributing to open source aswell as eager to build new projects
 - Avidly enjoy spending time solving coding problems on codewars
