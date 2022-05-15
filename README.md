@@ -2,7 +2,7 @@
 
 ## ➡ about me
 
--he/him
+- he/him
 - Currently learning Ruby and back-end technnologies
 - Looking to connect and network with as many people with similar hobbies and passions!
 - Intrested in learning from and contributing to open source aswell as eager to build new projects
