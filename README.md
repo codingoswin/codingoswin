@@ -1,4 +1,4 @@
-<img src="https://share.creavite.co/oVA7K7G64z6M72UV.gif" width = "1000" height = "130" align="center">
+<img src="https://giphy.com/gifs/GVwvf3agP7jZkZse5W?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width = "1000" height = "130" align="center">
 
 ## ➡ about me
 
