@@ -22,7 +22,6 @@
 <h3 align="left">my social media</h3>
 <p align="left">
 <a href="https://www.codewars.com/users/codingoswin" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="coding-oswin" height="30" width="40" /></a>
-<a href="https://twitter.com/InfiniteOswin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coding-oswin" height="30" width="40" /></a>
 <a href="https://leetcode.com/Oswin147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coding-oswin" height="30" width="40" /></a>
 </p>
 
